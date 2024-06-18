@@ -1,5 +1,5 @@
 - A use case captures a contract between the _stakeholders_ of a _system_ about its behavior.
-	- The use case describes the system's _behavior_ under _various conditions_ as the system responds to a _request_ from one of the stakeholders, called the _primary actor_.
+	- A use case describes the system's _behavior_ under _various conditions_ as the system responds to a _request_ from one of the stakeholders, called the _primary actor_.
 		- The primary actor initiates an interaction with the system to accomplish some _goal_.
 		- The system responds protecting the interests of all stakeholders.
 		- Different sequences of behavior, or _scenarios_, can unfold, depending on the particular requests made and the conditions surrounding the request.
@@ -20,5 +20,5 @@
 	- The primary actors include the company's customers and perhaps their suppliers.
 - When a use case records behavioral requirements for a piece of software.
 	- The SuD is the computer program.
-	- The stakeholders are the users of the computer program, the company owning the program, government regulatory agencies, and other computer programs.
+	- The stakeholders are the users of the computer program, the company owning the program, government regulatory agencies, and other computer systems.
 	- The primary actors include the users of the computer program and other computer systems.
